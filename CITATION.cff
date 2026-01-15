@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Architecture Irreversibility Model"
+message: "If you use this work in research, teaching, or derivative studies, please cite it as follows."
+authors:
+  - family-names: Yashin
+    given-names: Alexander
+    affiliation: Independent Researcher
+version: 0.1.0
+date-released: 2025-01-01
+license: Apache-2.0
+repository-code: https://github.com/<your-username>/architecture-irreversibility-model
+keywords:
+  - irreversibility
+  - complex systems
+  - architecture
+  - risk modeling
+  - monte carlo simulation
+  - cascading failure

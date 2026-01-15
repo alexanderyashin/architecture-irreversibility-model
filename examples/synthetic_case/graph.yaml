@@ -1,0 +1,18 @@
+# Synthetic dependency graph (public demo)
+# Nodes are subsystems; edges propagate stress downstream.
+#
+# This file is intentionally small and illustrative.
+
+nodes:
+  - CorePlatform
+  - IntegrationLayer
+  - DeliveryProcess
+
+edges:
+  - src: CorePlatform
+    dst: IntegrationLayer
+    weight: 0.6
+
+  - src: IntegrationLayer
+    dst: DeliveryProcess
+    weight: 0.4

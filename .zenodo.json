@@ -1,0 +1,30 @@
+{
+  "title": "Architecture Irreversibility Model: Thresholds, Cascades, and Expected Loss",
+  "description": "A quantitative model for irreversible transitions in complex architectures. The repository provides a reproducible simulation framework demonstrating threshold crossings, dependency-driven cascades, and expected economic loss on fully synthetic data. This is a public showcase and research artifact; no proprietary calibration or consulting logic is included.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Yashin, Alexander",
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "keywords": [
+    "architecture",
+    "irreversibility",
+    "complex systems",
+    "risk modeling",
+    "monte carlo",
+    "systems engineering",
+    "decision support"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/<your-username>/architecture-irreversibility-model",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "This repository is intended for publication, citation, and demonstration purposes. Operational tooling, questionnaires, calibration procedures, and commercial artifacts are maintained in a separate private repository."
+}
